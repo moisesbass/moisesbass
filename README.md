@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Moises Segura A</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h1 align="center">Hi 👋, I'm Moises Segura Aguilera</h1>
+<h3 align="center"> </h3>
 
 <img align="right" alt="Coding" width="350"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
@@ -10,7 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [www.moisesdev.com](www.moisesdev.com)
 
-- ⚡ Fun fact **I love Music**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
