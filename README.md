@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="350"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moisesbass&label=Profile%20views&color=0e75b6&style=flat" alt="moisesbass" /> </p>
-- 🌱 I’m currently learning **Android developer**
+- 👨‍💻 I’m currently learning **Android developer**
 
 - 👨‍💻 All of my projects are available at [www.moisesdev.com](www.moisesdev.com)
 
