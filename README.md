@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moisesbass&label=Profile%20views&color=0e75b6&style=flat" alt="moisesbass" /> </p>
 
-- 🌱 I’m currently learning Java, Kotlin, MySql, Android Studio, GitHub <br>
--👨‍💻 All of my projects are available at [www.moisesdev.com](www.moisesdev.com)
+🌱 I’m currently learning Java, Kotlin, MySql, Android Studio, GitHub <br>
+👨‍💻 All of my projects are available at [www.moisesdev.com](www.moisesdev.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
